@@ -10,4 +10,24 @@ console.log(3
     +3
 ); // not use these type of way
 
+let name = "manav"
+let age = 20
+let isLoggedIn = false
+let state = null
+
+// number => 2 to power 53
+// bigint
+// string => ""
+// boolean => true/false
+// nuull => standalone value
+// undefined => 
+// symbol => unique
+
+
+//object
+
+console.log(typeof "manav"); // string
+console.log(typeof null); // object
+console.log(typeof undefined); // undefined
+
 
