@@ -33,3 +33,4 @@ console.log(typeof bigNumber); // output bigint
 console.log(typeof outsideTemp); // output object
 
 console.log(typeof myFunction); // output function
+
